@@ -27,6 +27,7 @@ struct swiftfulthinking_todolistApp: App {
             NavigationStack {
                 ListView()
             }
+            .navigationViewStyle(StackNavigationViewStyle())
             .environmentObject(listViewModel)
         }
     }
