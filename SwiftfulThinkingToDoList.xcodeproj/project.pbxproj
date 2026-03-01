@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		0A8AB43B2F2A5FB0007C02F5 /* swiftfulthinking-todolist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swiftfulthinking-todolist.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0A8AB43B2F2A5FB0007C02F5 /* SwiftfulThinkingToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		0A8AB43D2F2A5FB0007C02F5 /* swiftfulthinking-todolist */ = {
+		0A8AB43D2F2A5FB0007C02F5 /* SwiftfulThinking-ToDoList */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "swiftfulthinking-todolist";
+			path = "SwiftfulThinking-ToDoList";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		0A8AB4322F2A5FB0007C02F5 = {
 			isa = PBXGroup;
 			children = (
-				0A8AB43D2F2A5FB0007C02F5 /* swiftfulthinking-todolist */,
+				0A8AB43D2F2A5FB0007C02F5 /* SwiftfulThinking-ToDoList */,
 				0A8AB43C2F2A5FB0007C02F5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		0A8AB43C2F2A5FB0007C02F5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0A8AB43B2F2A5FB0007C02F5 /* swiftfulthinking-todolist.app */,
+				0A8AB43B2F2A5FB0007C02F5 /* SwiftfulThinkingToDoList.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0A8AB43A2F2A5FB0007C02F5 /* swiftfulthinking-todolist */ = {
+		0A8AB43A2F2A5FB0007C02F5 /* SwiftfulThinkingToDoList */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0A8AB4462F2A5FB2007C02F5 /* Build configuration list for PBXNativeTarget "swiftfulthinking-todolist" */;
+			buildConfigurationList = 0A8AB4462F2A5FB2007C02F5 /* Build configuration list for PBXNativeTarget "SwiftfulThinkingToDoList" */;
 			buildPhases = (
 				0A8AB4372F2A5FB0007C02F5 /* Sources */,
 				0A8AB4382F2A5FB0007C02F5 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				0A8AB43D2F2A5FB0007C02F5 /* swiftfulthinking-todolist */,
+				0A8AB43D2F2A5FB0007C02F5 /* SwiftfulThinking-ToDoList */,
 			);
-			name = "swiftfulthinking-todolist";
+			name = SwiftfulThinkingToDoList;
 			packageProductDependencies = (
 			);
 			productName = "swiftfulthinking-todolist";
-			productReference = 0A8AB43B2F2A5FB0007C02F5 /* swiftfulthinking-todolist.app */;
+			productReference = 0A8AB43B2F2A5FB0007C02F5 /* SwiftfulThinkingToDoList.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0A8AB4362F2A5FB0007C02F5 /* Build configuration list for PBXProject "swiftfulthinking-todolist" */;
+			buildConfigurationList = 0A8AB4362F2A5FB0007C02F5 /* Build configuration list for PBXProject "SwiftfulThinkingToDoList" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0A8AB43A2F2A5FB0007C02F5 /* swiftfulthinking-todolist */,
+				0A8AB43A2F2A5FB0007C02F5 /* SwiftfulThinkingToDoList */,
 			);
 		};
 /* End PBXProject section */
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0A8AB4362F2A5FB0007C02F5 /* Build configuration list for PBXProject "swiftfulthinking-todolist" */ = {
+		0A8AB4362F2A5FB0007C02F5 /* Build configuration list for PBXProject "SwiftfulThinkingToDoList" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0A8AB4442F2A5FB2007C02F5 /* Debug */,
@@ -322,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0A8AB4462F2A5FB2007C02F5 /* Build configuration list for PBXNativeTarget "swiftfulthinking-todolist" */ = {
+		0A8AB4462F2A5FB2007C02F5 /* Build configuration list for PBXNativeTarget "SwiftfulThinkingToDoList" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0A8AB4472F2A5FB2007C02F5 /* Debug */,
