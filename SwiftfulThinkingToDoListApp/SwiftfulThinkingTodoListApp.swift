@@ -18,7 +18,7 @@ import SwiftUI
  */
 
 @main
-struct swiftfulthinking_todolistApp: App {
+struct SwiftfulThinkingToDoListApp: App {
     
     @StateObject var listViewModel: ListViewModel = ListViewModel()
     
